@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  /* height: 100vh; */
+}
+
+input:focus {
+  outline-width: 0;
+}
+
+body {
+  height: 100vh;
+}
+

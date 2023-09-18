@@ -1,0 +1,11 @@
+.css-dip3t8{
+  background-color: transparent !important;
+}
+
+header {
+  background-color: #fff !important;
+}
+
+button:disabled {
+  @apply text-white bg-gray-500 cursor-not-allowed;
+}
